@@ -75,7 +75,7 @@ let projects = [
   },
   {
     ProName: "Add to Cart",
-    img: "assets/images/addToCart.png",
+    img: "assets/images/add_cart_image.png",
     descryption: `A dynamic e-commerce feature that allows users to add products to their cart, built using JavaScript, HTML, and CSS. This project simulates a real-world shopping experience, with a responsive design and interactive functionality.`,
     className: "cart",
     link: "./addToCart/index.html",
