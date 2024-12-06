@@ -74,18 +74,18 @@ let projects = [
     link: "./wetherProject/index.html",
   },
   {
-    ProName: "Corona APi",
-    img: "assets/images/corona.png",
-    descryption: `A dynamic web application that fetches real-time COVID-19 data from a reliable API, built using JavaScript, HTML, and CSS. Get the latest statistics on cases, deaths, and recoveries worldwide.`,
-    className: "corona",
-    link: "./CoronaProject/index.html",
-  },
-  {
     ProName: "Add to Cart",
     img: "assets/images/addToCart.png",
     descryption: `A dynamic e-commerce feature that allows users to add products to their cart, built using JavaScript, HTML, and CSS. This project simulates a real-world shopping experience, with a responsive design and interactive functionality.`,
     className: "cart",
     link: "./addToCart/index.html",
+  },
+  {
+    ProName: "Corona APi",
+    img: "assets/images/corona.png",
+    descryption: `A dynamic web application that fetches real-time COVID-19 data from a reliable API, built using JavaScript, HTML, and CSS. Get the latest statistics on cases, deaths, and recoveries worldwide.`,
+    className: "corona",
+    link: "./CoronaProject/index.html",
   },
 ];
 
